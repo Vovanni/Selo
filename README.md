@@ -1,5 +1,4 @@
-# Selo
- VR
+# Selo VR
 ## Discription
 Simple VR racing game for Android (Fibrum SDK)
 
