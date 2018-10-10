@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Standard Assets\Effects\ImageEffects\Scripts\Blur.cs">
+    <Files>
+      <File FileName="Assets\_Scripts\Counter.cs" Line="1" Column="1" />
+      <File FileName="Assets\Cartoon SportCar B01\korobka\Box_Sc.cs" Line="1" Column="1" />
+      <File FileName="Assets\More PostProcessing Effects\Editor\MorePPEffects\DrunkEditor.cs" Line="36" Column="1" />
+      <File FileName="Assets\More PostProcessing Effects\Scripts\Drunk.cs" Line="26" Column="24" />
+      <File FileName="Assets\Standard Assets\Effects\ImageEffects\Scripts\Blur.cs" Line="27" Column="9" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
